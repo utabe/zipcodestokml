@@ -5,7 +5,7 @@ Takes a list of zipcodes and creates a kml file containing polygons of the zipco
 # Requirements
 You will need to download and extract the tl_2017_us_zcta510.zip file from https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2017&layergroup=ZIP+Code+Tabulation+Areas
 
-You will also need to `pip install shapefile` and `pip install simplekml`
+You will also need to `pip install shapefile`, `pip install simplekml`, and `pip install shapely` 
 
 
 ##Remember
